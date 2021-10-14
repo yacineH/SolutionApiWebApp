@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ApiWebApp
-build_property.ProjectDir = C:\Users\Yacine\Source\repos\yacineH\SolutionApiWebApp\ApiWebApp\
+build_property.ProjectDir = J:\Dev2021\DevOps-CI-CD\yacineH\SolutionApiWebApp\ApiWebApp\

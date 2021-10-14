@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj": {}
+    "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
+    "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+        "projectUniqueName": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
         "projectName": "ApiWebApp",
-        "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+        "projectPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
         "packagesPath": "C:\\Users\\Yacine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\obj\\",
+        "outputPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj": {
+    "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
-        "projectName": "TestApiWebApp",
-        "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
+        "projectUniqueName": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
+        "projectName": "ApiWebAppTests",
+        "projectPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
         "packagesPath": "C:\\Users\\Yacine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\obj\\",
+        "outputPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,8 +97,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
-                "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj"
+              "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
+                "projectPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj"
               }
             }
           }

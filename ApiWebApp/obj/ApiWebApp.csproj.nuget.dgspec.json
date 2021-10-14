@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {}
+    "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
+    "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+        "projectUniqueName": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
         "projectName": "ApiWebApp",
-        "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+        "projectPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
         "packagesPath": "C:\\Users\\Yacine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\obj\\",
+        "outputPath": "J:\\Dev2021\\DevOps-CI-CD\\yacineH\\SolutionApiWebApp\\ApiWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

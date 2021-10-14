@@ -15,11 +15,12 @@ namespace TestApiWebApp
         [Fact]
         public void Get_NoArguments_ReturnsDefaultForeCastDays()
         {
+            //Arrange
             var controller = new WeatherForecastController(loggerStub.Object);
-
-            var expectedDays = 7;
-
+            var expectedDays = 5;
+            //Act
             var foreCasts = controller.Get();
+            //Assert
             Assert.NotNull(foreCasts);
             Assert.Equal(expectedDays, foreCasts.Count());
 
