@@ -6516,11 +6516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Dev2021\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
       "projectName": "TestApiWebApp",
-      "projectPath": "J:\\Dev2021\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
+      "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\TestApiWebApp.csproj",
       "packagesPath": "C:\\Users\\Yacine\\.nuget\\packages\\",
-      "outputPath": "J:\\Dev2021\\SolutionApiWebApp\\TestApiWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\TestApiWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6540,8 +6540,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "J:\\Dev2021\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
-              "projectPath": "J:\\Dev2021\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj"
+            "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj": {
+              "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj"
             }
           }
         }
@@ -6600,7 +6600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

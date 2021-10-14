@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Dev2021\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
       "projectName": "ApiWebApp",
-      "projectPath": "J:\\Dev2021\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
+      "projectPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\ApiWebApp.csproj",
       "packagesPath": "C:\\Users\\Yacine\\.nuget\\packages\\",
-      "outputPath": "J:\\Dev2021\\SolutionApiWebApp\\ApiWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Yacine\\Source\\Repos\\yacineH\\SolutionApiWebApp\\ApiWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,7 +163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
